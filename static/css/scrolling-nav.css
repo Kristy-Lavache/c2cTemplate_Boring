@@ -17,3 +17,28 @@ header {
 section {
   padding: 150px 0;
 }
+
+h1 {
+    font-family: Initial;
+    font-weight: Bold;
+}
+
+#about {
+    color: linear-gradient (blue, white);
+}
+
+.img-fluid {
+    width: 700px;
+    height: 200px;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+    font-family: Initial;
+}
+
+.title {
+    margin: 15px;
+    padding: 10px;
+}
