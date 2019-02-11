@@ -4,6 +4,10 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
 
+.text-white {
+    background-color: #eda757;
+}
+
 header {
   padding: 154px 0 100px;
 }
@@ -24,12 +28,13 @@ h1 {
 }
 
 #about {
-    color: linear-gradient (blue, white);
+    background: linear-gradient (blue, white);
+    padding-top: 15px;
 }
 
 .img-fluid {
-    width: 700px;
-    height: 200px;
+    width: 900px;
+    height: 400px;
 }
 
 h2 {
@@ -41,4 +46,9 @@ h2 {
 .title {
     margin: 15px;
     padding: 10px;
+}
+
+.Txt{
+    text-align: center;
+    font-weight: bold;
 }
